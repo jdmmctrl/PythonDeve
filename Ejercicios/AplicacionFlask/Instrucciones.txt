@@ -1,0 +1,3 @@
+* pip install flask
+* mkdir templates
+* touch index.html
